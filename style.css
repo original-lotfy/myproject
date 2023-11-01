@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: rgb(255, 254, 254);
   font-size: 4rem;
   align-items: center;
   text-align: center;
@@ -7,5 +7,5 @@ h1 {
   margin: 20px auto;
 }
 body{
-  background-color:chocolate;
+  background-color:black;
 }
